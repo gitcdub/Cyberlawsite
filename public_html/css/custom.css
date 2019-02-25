@@ -1,0 +1,52 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+
+
+ul.nav {
+    text-align: center;
+    font: 22px Sans-Serif;
+    color: #000;
+    padding-left: 20px;
+    padding-right: 0px;
+    margin-right: 0px::
+    margin-left: 40px:
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+text {
+    text-align: center;
+    margin-right: 80px;
+    margin-bottom: 6px;
+    color: #000;
+    font-size: 42px;
+    font-weight: 100;
+}
+
+.jumbotron {
+    background-image: url('../img/download4.jpg');
+    opacity: 0.6;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+    width: 1750px;
+    height: 850px;
+    padding-top: 0;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+
+.cap p {
+    padding-bottom: 10px;
+    margin-top: 175px;
+    margin-left: 218px;
+    margin-right: 675px;
+    font: 50px Sans-Serif;
+    background: rgba(255, 255, 255, 0.35);
+    color: #000000;
+}
+
+.footer {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
